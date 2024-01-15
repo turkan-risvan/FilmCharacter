@@ -10,10 +10,14 @@ class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor:  Color.fromARGB(255, 242, 247, 218),
         appBar: AppBar(
-          title: const Text(
-            "Karakterler",
-            style: TextStyle(color: Colors.orange, fontWeight: FontWeight.bold),
+         backgroundColor:   const Color(0xFFF2F7DA),
+          title:const  Center(
+            child:   Text(
+              "Character",
+              style: TextStyle(color: Colors.orange, fontWeight: FontWeight.bold,),
+            ),
           ),
         ),
         body: _buildCharacterList(context));
@@ -43,8 +47,8 @@ Widget _buildCharacterList(BuildContext context) {
                       bottomRight: Radius.circular(10),
                       topRight: Radius.circular(10)),
                   border: Border.all(
-                      color: Color.fromARGB(255, 255, 180, 68), width: 2),
-                  color: Color.fromARGB(255, 244, 184, 131),
+                      color: Color.fromARGB(255, 218, 218, 218), width: 2),
+                  color: Color.fromARGB(255, 252, 241, 191),
                 ),
                 child: Row(
                   children: [
