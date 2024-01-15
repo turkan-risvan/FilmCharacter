@@ -1,16 +1,6 @@
-# fluttersinav
 
-A new Flutter project.
+### Rick And Morty
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Http - Api - MVMM - Provider
+![Rickandmortycharacterpage](https://github.com/turkan-risvan/FilmCharacter/assets/78659151/534af208-4c7a-485b-9a0a-c1e7b508e0ea)
+![Rickandmortycharacterdetailpage](https://github.com/turkan-risvan/FilmCharacter/assets/78659151/82dc8c9e-3f4c-4e9d-8ef3-942ccd24eafa)
